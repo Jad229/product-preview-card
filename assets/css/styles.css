@@ -66,4 +66,18 @@ section {
     border-top-right-radius: 1rem;
   }
 }
-
+.card-container{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.section{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: var(--bs-secondary);
+  border-style: none;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 22px;
+  padding-right: 22px;
+  border-top-left-radius: 1rem;
+}
